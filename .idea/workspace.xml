@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Messenger1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3b1b81a-db56-4294-bc1f-bea830838bab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aDPdnsh97OKPyyUVGcgnQ8j0nh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="server" />
+      <recent name="client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Я\Desktop\Java_Project" />
+      <recent name="C:\Users\Я\Desktop\Java_Project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChatMessengerAppl">
+    <configuration name="ChatMessengerAppl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ChatMessengerAppl" />
+      <module name="Messenger1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatMessengerServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ChatMessengerServer" />
+      <module name="Messenger1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.server_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatMessengerServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.server_client.ChatMessengerServerApplication" />
+      <module name="Messenger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.server_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Messenger1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Messenger1_jar/Messenger1.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Messenger.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Messenger_jar/Messenger.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatMessengerAppl" />
+        <item itemvalue="Application.ChatMessengerServer" />
+        <item itemvalue="JAR Application.Messenger1.jar" />
+        <item itemvalue="Application.ChatMessengerServerApplication" />
+        <item itemvalue="JAR Application.Messenger.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b1b81a-db56-4294-bc1f-bea830838bab" name="Default Changelist" comment="" />
+      <created>1586267280217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586267280217</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="32" key="#ChatMessengerAppl" timestamp="1591387514088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="32" key="#ChatMessengerAppl/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387514088" />
+    <state x="464" y="32" key="#ChatMessengerServer" timestamp="1591387500103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="32" key="#ChatMessengerServer/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387500103" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1590862515598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590862515598" />
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591387544522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387544522" />
+    <state x="59" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591357201430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="59" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591357201430" />
+    <state x="74" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587122102266" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587470975919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587470975919" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1591560746631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591560746631" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589910791571" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1591561327528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387598047" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591561327528" />
+    <state width="1877" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591026874202" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1591561327528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387598047" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591561327528" />
+    <state width="1877" height="171" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591026874202" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1591561327528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387598047" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591561327528" />
+    <state width="1877" height="171" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591026874202" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1591561327528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="164" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387598047" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591561327528" />
+    <state width="1877" height="171" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591026874202" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590820718878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590820718878" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1590820718878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590820718878" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1590820718878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590820718878" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1590820718878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590820718878" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591387557681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1591387557681" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591560741215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591560741215" />
+    <state x="342" y="140" key="new project wizard" timestamp="1588144297844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588144297844" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588059957178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588059957178" />
+  </component>
+</project>
